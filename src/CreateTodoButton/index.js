@@ -3,15 +3,15 @@ import './CreateTodoButton.css'
 
 
 
-function CreateTodoButton(){
-    const onClickButton = (msj) =>{
-        alert(msj)
+function CreateTodoButton({setOpenModal, openModal}){
+    const onClickButton = () =>{
+        setOpenModal(!openModal)
     }
 
     return (
         <button 
             className="CreateTodoButton"
-            onClick={()=>onClickButton('abriste un modal')}
+            onClick={onClickButton}
         
         >
             +
