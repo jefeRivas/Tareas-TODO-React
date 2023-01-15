@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tareas-TODO-React/static/css/main.5d52ce41.css",
+    "main.js": "/Tareas-TODO-React/static/js/main.59476b04.js",
+    "index.html": "/Tareas-TODO-React/index.html",
+    "main.5d52ce41.css.map": "/Tareas-TODO-React/static/css/main.5d52ce41.css.map",
+    "main.59476b04.js.map": "/Tareas-TODO-React/static/js/main.59476b04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d52ce41.css",
+    "static/js/main.59476b04.js"
+  ]
+}
