@@ -37,8 +37,8 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://jefeRivas.github.io/Tareas-TODO-React",
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  },
-  "homepage": "https://jefeRivas.github.io/Tareas-TODO-React"
+  }
 }
